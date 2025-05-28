@@ -17,10 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Postdoc at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously, I was a Visiting Scholar at the Department of Computer Science, Kent State University (KSU), United State, advised by Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>. 
 
+I received my Ph.D. Degree in June, 2025 from East China Normal University (ECNU), China, supervised by Prof. <a href="https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp" target="_blank"><b>Mingsong Chen</b></a> and Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a>.
+
+I obtained my Bachelor Degree in June, 2020 from Guangxi Normal University (GXNU), China, supervised by Prof. <a href="http://www.cs.gxnu.edu.cn/2015/0915/c4858a94329/pagem.htm" target="_blank"><b>Xianxian Li</b></a> and Prof. <a href="http://www.cs.gxnu.edu.cn/wjl/listm.htm" target="_blank"><b>Jingli wu</b></a>.
+
+My research interests mainly include:
+
+- Graph Data Management (e.g., Graph Query Processing and Optimization, Graph Learning, ...)
+
+- Transportation Big Data (Time Series Analysis, Reinforcement Learning,  ...)
+
+- Other Artificial Intelligence Fields
+
+I have published more than 30 papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI.
+
+ <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge ). -->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
