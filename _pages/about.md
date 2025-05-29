@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently a Postdoc at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.**
+**I am currently an Excellence (卓越百人) Postdoc at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.**
 
 Previously, I was a Visiting Scholar at the Department of Computer Science, Kent State University (KSU), United State, advised by Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>. 
 
@@ -29,7 +29,10 @@ My research interests mainly include:
 
 I have published more than 30 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI.
 
-Here are the links to some of my professional websites: <b><a a href="CV.pdf" target="_blank">Resume</a></b>, <b><a href="https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></b>, and <b><a href="https://dblp.uni-trier.de/pid/192/4957.html" target="_blank">DBLP</a></b>.
+Here are the links to some of my professional websites: <b><a a href="CV.pdf" target="_blank">Resume</a></b>, <b><a href="https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl" target="_blank">Google Scholar</a></b>, and <b><a href="https://dblp.uni-trier.de/pid/192/4957.html" target="_blank">DBLP</a></b>.
+
+
+# 🔥 News
 
 <font color=blue>
 <b>I am open to collaborating in the fields of data mining and artificial intelligence. Please reach out if you are interested.</b>
@@ -204,34 +207,39 @@ Instructor: Prof. Ting Wang
 ## External Journal Reviewer for
 -	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD): 2022
 
--	Journal of Systems Architecture (JSA): 2021
+-	Journal of Systems Architecture (JSA): 2022
 
 -	The International Journal of High-Performance Computing Applications (IJHPCA): 2020
 
 -	ACM Journal of Data and Information Quality (JDIQ): 2024
 
--	Journal of Circuits, Systems and Computers (JCSC): 2023
+-	Journal of Circuits, Systems and Computers (JCSC): 2024
+
+- IEEE Transactions on Services Computing (IEEE TSC): 2024
+
+- IEEE Transactions on Information Forensics and Security (IEEE TIFS): 2024
 
 - IET Intelligent Transport Systems (IET-ITS): 2025
 
 
 
-
 # 🏆 Honors and Awards
--	*2024*, Youth Talents Support Project (Doctoral Student Special Program), China Association for Science and Technology
+- *2025*, Outstanding Graduate of Shanghai. 上海市优秀毕业生
 
--	*2023*, China National Scholarship (Ph.D. Student)
+-	*2024*, Youth Talents Support Project (Doctoral Student Special Program), China Association for Science and Technology. 中国科协青年人才托举工程博士生专项（首批）
 
--	*2023*, Grant Program for Global Research Visits of East China Normal University
+-	*2023*, China National Scholarship (Ph.D. Student). 国家奖学金
 
--	*2023*, Outstanding Student of Software Engineering Institute
+-	*2023*, Grant Program for Global Research Visits, East China Normal University. 华东师范大学访学资助
 
-- **
+-	*2023*, Outstanding Student of Software Engineering Institute, East China Normal University. 软件工程学院“杰出学生青年”
 
--	*2020*, Outstanding Graduate of Guangxi Province
+- *2022*, Chinese Scholarship Council (Joint Doctoral Program). 留学基金委联培资助
 
-- *2019*, President Scholarship of Guangxi Normal University
+-	*2020*, Outstanding Graduate of Guangxi Province. 广西区优秀毕业生
 
--	*2019*, China National Scholarship (Undergraduate Student)
+- *2019*, President Scholarship, Guangxi Normal University. 校长奖学金
 
--	*2018*, China National Scholarship (Undergraduate Student)
+-	*2019*, China National Scholarship (Undergraduate Student). 国家奖学金
+
+-	*2018*, China National Scholarship (Undergraduate Student). 国家奖学金
