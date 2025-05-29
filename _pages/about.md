@@ -27,7 +27,9 @@ My research interests mainly include:
 
 - Other Artificial Intelligence Fields
 
-I have published more than 30 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI.
+I have published more than 30 papers at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI.
+
+<!-- I have published more than 30 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI. -->
 
 Here are the links to some of my professional websites: <b><a a href="CV.pdf" target="_blank">Resume</a></b>, <b><a href="https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl" target="_blank">Google Scholar</a></b>, and <b><a href="https://dblp.uni-trier.de/pid/192/4957.html" target="_blank">DBLP</a></b>.
 
