@@ -1,8 +1,8 @@
-from scholarly import scholarly
-import jsonpickle
-import json
-from datetime import datetime
-import os
+# from scholarly import scholarly
+# import jsonpickle
+# import json
+# from datetime import datetime
+# import os
 
 # author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 # scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
@@ -22,11 +22,20 @@ import os
 # with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
 #     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
+
+
+
+
+from scholarly import scholarly, ProxyGenerator
+import json
+from datetime import datetime
+import os
+from scholarly._proxy_generator import MaxTriesExceededException
+
 # Setup proxy
 pg = ProxyGenerator()
 pg.FreeProxies()  # Use free rotating proxies
 scholarly.use_proxy(pg)
-
 
 try:
     print("正在查找作者信息...")
