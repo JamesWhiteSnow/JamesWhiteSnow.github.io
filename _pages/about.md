@@ -175,7 +175,7 @@ Instructor: Prof. Ting Wang
 
 # 🎓 Professional Services
 
-***Statistics: Journal Reviewer - 2, Conference/Workshop Reviewer - 6, External Conference Reviewer - 19, External Journal Reviewer - 5***
+***Statistics: Journal Reviewer - 2, Conference/Workshop Reviewer - 8, External Conference Reviewer - 13, External Journal Reviewer - 8***
 
 ## Journal Reviewer for:
 -	Data & Knowledge Engineering (DKE): 2024, 2025
