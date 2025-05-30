@@ -55,54 +55,54 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: PVLDB - 1, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
 
-**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](). IET Intelligent Transport Systems, 2025. (IF=2.8).
+**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](). IET Intelligent Transport Systems (**IET ITS, CCF-C**), 2025. (IF=2.8).
 
-**[J9]** **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding](https://vldb.org/pvldb/volumes/17/paper/Efficient%20Exact%20Subgraph%20Matching%20via%20GNN-based%20Path%20Dominance%20Embedding). Proceedings of the Very Large Data Bases Conferences Endowment (PVLDB), 2024. (IF=2.86).
+**[J9]** **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding](https://vldb.org/pvldb/volumes/17/paper/Efficient%20Exact%20Subgraph%20Matching%20via%20GNN-based%20Path%20Dominance%20Embedding). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2024. (IF=2.86).
 
-**[J8]** Yaning Yang, Xiao Du, **Yutong Ye**, Jiepin Ding, Ting Wang, Mingsong Chen, Keqin Li. [Multi-objective Deep Reinforcement Learning for Function Offloading in Serverless Edge Computing](https://ieeexplore.ieee.org/abstract/document/10740030). IEEE Transactions on Services Computing (IEEE TSC), 2024. (IF=5.5).
+**[J8]** Yaning Yang, Xiao Du, **Yutong Ye**, Jiepin Ding, Ting Wang, Mingsong Chen, Keqin Li. [Multi-objective Deep Reinforcement Learning for Function Offloading in Serverless Edge Computing](https://ieeexplore.ieee.org/abstract/document/10740030). IEEE Transactions on Services Computing (**IEEE TSC, CCF-A**), 2024. (IF=5.5).
 
-**[J7]** Zhusen Liu, Weizheng Wang, **Yutong Ye**, Nan Min, Zhenfu Cao, Lu Zhou, Zhe Liu. [Collusion-Resilient Cloud-Assisted Two-Party Computation Scheme in Heterogeneous Mobile Cloud Computing](https://ieeexplore.ieee.org/abstract/document/10601195/). IEEE Transactions on Information Forensics and Security (IEEE TIFS), 2024. (IF=6.3).
+**[J7]** Zhusen Liu, Weizheng Wang, **Yutong Ye**, Nan Min, Zhenfu Cao, Lu Zhou, Zhe Liu. [Collusion-Resilient Cloud-Assisted Two-Party Computation Scheme in Heterogeneous Mobile Cloud Computing](https://ieeexplore.ieee.org/abstract/document/10601195/). IEEE Transactions on Information Forensics and Security (**IEEE TIFS, CCF-A**), 2024. (IF=6.3).
 
-**[J6]** Jiepin Ding, Jun Xia, **Yutong Ye**, Yuan Ma, and Mingsong Chen. [Knowledge-based Effective Dispatch for Job Shop Scheduling](https://www.worldscientific.com/doi/abs/10.1142/S0218126624502608). Journal of Circuits, Systems and Computers (JCSC), 2024. (IF=1.55).
+**[J6]** Jiepin Ding, Jun Xia, **Yutong Ye**, Yuan Ma, and Mingsong Chen. [Knowledge-based Effective Dispatch for Job Shop Scheduling](https://www.worldscientific.com/doi/abs/10.1142/S0218126624502608). Journal of Circuits, Systems and Computers (**JCSC, SCI**), 2024. (IF=1.55).
 
-**[J5]** **Yutong Ye**, Jiepin Ding, Ting Wang, Junlong Zhou, Xian Wei, and Mingsong Chen. [FairLight: Fairness-Aware Autonomous Traffic Signal Control with Hierarchical Action Space](https://ieeexplore.ieee.org/abstract/document/9969874). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2022. (IF=2.9).
+**[J5]** **Yutong Ye**, Jiepin Ding, Ting Wang, Junlong Zhou, Xian Wei, and Mingsong Chen. [FairLight: Fairness-Aware Autonomous Traffic Signal Control with Hierarchical Action Space](https://ieeexplore.ieee.org/abstract/document/9969874). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD, CCF-A**), 2022. (IF=2.9).
 
-**[J4]** Wupan Zhao, **Yutong Ye**, Jiepin Ding, Ting Wang, Tongquan Wei, and Mingsong Chen. [IPDALight: Intensity-and Phase Duration-aware Traffic Signal Control based on Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1383762121002587). Journal of Systems Architecture (JSA), 2022. (IF=4.5).
+**[J4]** Wupan Zhao, **Yutong Ye**, Jiepin Ding, Ting Wang, Tongquan Wei, and Mingsong Chen. [IPDALight: Intensity-and Phase Duration-aware Traffic Signal Control based on Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1383762121002587). Journal of Systems Architecture (**JSA, CCF-B**), 2022. (IF=4.5).
 
-**[J3]** **Yutong Ye**, Hongyin Zhu, Chaoying Zhang, and Binghai Wen. [Efficient Graphic Processing Unit Implementation of the Chemical-Potential Multiphase Lattice Boltzmann Method](https://journals.sagepub.com/doi/full/10.1177/1094342020968272). The International Journal of High-Performance Computing Applications (IJHPCA), 2021. (IF=3.1).
+**[J3]** **Yutong Ye**, Hongyin Zhu, Chaoying Zhang, and Binghai Wen. [Efficient Graphic Processing Unit Implementation of the Chemical-Potential Multiphase Lattice Boltzmann Method](https://journals.sagepub.com/doi/full/10.1177/1094342020968272). The International Journal of High-Performance Computing Applications (**IJHPCA, SCI**), 2021. (IF=3.1).
 
-**[J2]** Fengru Ling, Gang Huang, Hao Tang, Mengmeng Geng, **Yutong Ye**, and Zhangrong Qin. [A Lattice Boltzmann Simulation of Coalescence-induced Droplet Jumping on Superhydrophobic Surfaces](https://iopscience.iop.org/article/10.1088/1742-6596/1300/1/012094/meta). Journal of Physics: Conference Series (JPCS), 2019. (IF=0.48).
+**[J2]** Fengru Ling, Gang Huang, Hao Tang, Mengmeng Geng, **Yutong Ye**, and Zhangrong Qin. [A Lattice Boltzmann Simulation of Coalescence-induced Droplet Jumping on Superhydrophobic Surfaces](https://iopscience.iop.org/article/10.1088/1742-6596/1300/1/012094/meta). Journal of Physics: Conference Series (**JPCS, EI**), 2019. (IF=0.48).
 
-**[J1]** Jingli Wu, **Yutong Ye**, and Yong Wu. [Roadside Unit Deployment Algorithm based on Useful Contribution](https://www.jos.org.cn/josen/article/abstract/18005?st=article_issue). Journal of Software (JS), 2018. (IF=2.66).
+**[J1]** Jingli Wu, **Yutong Ye**, and Yong Wu. [Roadside Unit Deployment Algorithm based on Useful Contribution](https://www.jos.org.cn/josen/article/abstract/18005?st=article_issue). Journal of Software (**JS, CCF-A**), 2018. (IF=2.66).
 
 
 ## Conference
 
 ***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1***
 
-**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (IJCAI), Montreal, August 16-22, 2025. (Acceptance Rate: 19.3%).
+**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, August 16-22, 2025. (Acceptance Rate: 19.3%).
 
-**[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Hyderabad, India, Apr. 6-11, 2025.
+**[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
-**[C10]** Yingbo Zhou, Pengyu Zhang, **Yutong Ye**, Zhihao Yue, Xian Wei, and Mingsong Chen. [FiTGAN: Content Fusion with Style Transformation for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Hyderabad, India, Apr. 6-11, 2025.
+**[C10]** Yingbo Zhou, Pengyu Zhang, **Yutong Ye**, Zhihao Yue, Xian Wei, and Mingsong Chen. [FiTGAN: Content Fusion with Style Transformation for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
-**[C9]** Yingbo Zhou, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [Exact Fusion via Feature Distribution Matching for Few-shot Image Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Exact_Fusion_via_Feature_Distribution_Matching_for_Few-shot_Image_Generation_CVPR_2024_paper.html). Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, Jun. 17-21, 2024. (Acceptance Rate: 24%).
+**[C9]** Yingbo Zhou, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [Exact Fusion via Feature Distribution Matching for Few-shot Image Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Exact_Fusion_via_Feature_Distribution_Matching_for_Few-shot_Image_Generation_CVPR_2024_paper.html). Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**), Seattle, USA, Jun. 17-21, 2024. (Acceptance Rate: 24%).
 
-**[C8]** Nan Zhang, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Top-L Most Influential Community Detection Over Social Networks](https://ieeexplore.ieee.org/abstract/document/10639540). IEEE International Conference on Data Engineering (ICDE), Utrecht, Netherlands, May. 13-17, 2024. (Acceptance Rate: 20%).
+**[C8]** Nan Zhang, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Top-L Most Influential Community Detection Over Social Networks](https://ieeexplore.ieee.org/abstract/document/10639540). IEEE International Conference on Data Engineering (**ICDE, CCF-A**), Utrecht, Netherlands, May. 13-17, 2024. (Acceptance Rate: 20%).
 
-**[C7]** Xiao Du, **Yutong Ye**, Pengyu Zhang, Yaning Yang, Mingsong Chen, and Ting Wang. [Situation-Dependent Causal Influence-Based Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29684). AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, Feb. 20-27, 2024. (Acceptance Rate: 24%).
+**[C7]** Xiao Du, **Yutong Ye**, Pengyu Zhang, Yaning Yang, Mingsong Chen, and Ting Wang. [Situation-Dependent Causal Influence-Based Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29684). AAAI Conference on Artificial Intelligence (**AAAI, CCF-A**), Vancouver, Canada, Feb. 20-27, 2024. (Acceptance Rate: 24%).
 
-**[C6]** Yang Yu, Yingbo Zhou, Yaokang Zhu, **Yutong Ye**, Liangyu Chen, and Mingsong Chen. [ECKT: Enhancing Code Knowledge Tracing via Large Language Models](https://escholarship.org/uc/item/8001b5mp). Cognitive Science Society Annual Conference (COGSCI), Rotterdam, Netherlands, Jul. 24-27, 2024.
+**[C6]** Yang Yu, Yingbo Zhou, Yaokang Zhu, **Yutong Ye**, Liangyu Chen, and Mingsong Chen. [ECKT: Enhancing Code Knowledge Tracing via Large Language Models](https://escholarship.org/uc/item/8001b5mp). Cognitive Science Society Annual Conference (**COGSCI, CCF-B**), Rotterdam, Netherlands, Jul. 24-27, 2024.
 
-**[C5]** **Yutong Ye**, Zhiwei Ling, Yaning Yang, Xian Wei, Chen Cheng, Su Chen, and Mingsong Chen. [Brief Industry Paper: RTLight: Digital Twin-based Real-Time Federated Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/10406112). Real-Time Systems Symposium (RTSS), Taipei, China, Dec. 5-8, 2023. (Acceptance Rate: 28%).
+**[C5]** **Yutong Ye**, Zhiwei Ling, Yaning Yang, Xian Wei, Chen Cheng, Su Chen, and Mingsong Chen. [Brief Industry Paper: RTLight: Digital Twin-based Real-Time Federated Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/10406112). Real-Time Systems Symposium (**RTSS, CCF-A**), Taipei, China, Dec. 5-8, 2023. (Acceptance Rate: 28%).
 
-**[C4]** Jiali Wang, **Yutong Ye**, Ting Wang, and Mingsong Chen. [LWSA: A Learning-Based Workflow Scheduling Algorithm for Energy-Efficient UAV Delivery System](https://ieeexplore.ieee.org/abstract/document/10476313). IEEE International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, Dec. 17-21, 2023. (Acceptance Rate: 37%).
+**[C4]** Jiali Wang, **Yutong Ye**, Ting Wang, and Mingsong Chen. [LWSA: A Learning-Based Workflow Scheduling Algorithm for Energy-Efficient UAV Delivery System](https://ieeexplore.ieee.org/abstract/document/10476313). IEEE International Conference on Parallel and Distributed Systems (**ICPADS, EI**), Ocean Flower Island, China, Dec. 17-21, 2023. (Acceptance Rate: 37%).
 
-**[C3]** **Yutong Ye**, Wupan Zhao, Tongquan Wei, Shiyan Hu, and Mingsong Chen. [FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/9586175). Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021. (Acceptance Rate: 23%).
+**[C3]** **Yutong Ye**, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, and Xiang Lian. [InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/550). International Joint Conference on Artificial Intelligence (**IJCAI,CCF-A**), Macao, China, Aug. 19-25, 2023. (Acceptance Rate: 14%).
 
-**[C2]** **Yutong Ye**, Wupan Zhao, Tongquan Wei, Shiyan Hu, and Mingsong Chen. [FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/9586175). Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021. (Acceptance Rate: 23%).
+**[C2]** **Yutong Ye**, Wupan Zhao, Tongquan Wei, Shiyan Hu, and Mingsong Chen. [FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/9586175). Design Automation Conference (**DAC, CCF-A**), San Francisco, USA, Jun. 23-27, 2021. (Acceptance Rate: 23%).
 
-**[C1]** Jingli Wu, Yong Wu, Jinyan Wang, and **Yutong Ye**. [A Parthenogenetic Algorithm for Deploying the Roadside Units in Vehicle Networks](https://link.springer.com/chapter/10.1007/978-3-319-99247-1_8). International Conference on Knowledge Science, Engineering and Management (KSEM), Changchun, China, Aug. 17-19, 2018. (Acceptance Rate: 18%).
+**[C1]** Jingli Wu, Yong Wu, Jinyan Wang, and **Yutong Ye**. [A Parthenogenetic Algorithm for Deploying the Roadside Units in Vehicle Networks](https://link.springer.com/chapter/10.1007/978-3-319-99247-1_8). International Conference on Knowledge Science, Engineering and Management (**KSEM, CCF-C**), Changchun, China, Aug. 17-19, 2018. (Acceptance Rate: 18%).
 
 
 
