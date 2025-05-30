@@ -132,25 +132,25 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 💻 Research Projects and Grants
 
--	[PI] Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
+-	**[PI]** Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
 
--	[PI] Research on Intelligent Transportation System Based on Deep Learning. East China Normal University Academic Innovation Promotion Program for Excellent Doctoral Students, 30K RMB. (华东师范大学优秀博士生学术创新能力提升计划)
+-	**[PI]** Research on Intelligent Transportation System Based on Deep Learning. East China Normal University Academic Innovation Promotion Program for Excellent Doctoral Students, 30K RMB. (华东师范大学优秀博士生学术创新能力提升计划)
 
--	[PI] Study of Droplet Merging and Bouncing Phenomena using the Lattice Boltzmann Method. National Undergraduate Training Programs for Innovation and Entrepreneurship, 14K RMB. (国家级大学生创新创业训练计划)
+-	**[PI]** Study of Droplet Merging and Bouncing Phenomena using the Lattice Boltzmann Method. National Undergraduate Training Programs for Innovation and Entrepreneurship, 14K RMB. (国家级大学生创新创业训练计划)
 
--	[PI] Parallel Algorithm Design and Optimization of Chemical Potential Lattice Boltzmann Method Based on GPU Computing. National Undergraduate Training Programs for Innovation and Entrepreneurship, 7K RMB. (省级大学生创新创业训练计划)
+-	**[PI]** Parallel Algorithm Design and Optimization of Chemical Potential Lattice Boltzmann Method Based on GPU Computing. National Undergraduate Training Programs for Innovation and Entrepreneurship, 7K RMB. (省级大学生创新创业训练计划)
 
--	[PI] Research on RSU Deployment Problem based on Intelligent Optimization Algorithm, National Undergraduate Training Programs for Innovation and Entrepreneurship, 4K RMB. (省级大学生创新创业训练计划)
+-	**[PI]** Research on RSU Deployment Problem based on Intelligent Optimization Algorithm, National Undergraduate Training Programs for Innovation and Entrepreneurship, 4K RMB. (省级大学生创新创业训练计划)
 
--	[Co-PI] Research on scheduling optimization of green manufacturing and trusted services under crowd intelligence environment. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
+-	**[Co-PI]** Research on scheduling optimization of green manufacturing and trusted services under crowd intelligence environment. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
 
--	[RA] Key technologies and applications of information-physical fusion in smart cities. National Key Research and Development Program, 17M RMB. (国家重点研发计划重点专项)
+-	**[RA]** Key technologies and applications of information-physical fusion in smart cities. National Key Research and Development Program, 17M RMB. (国家重点研发计划重点专项)
 
-- [RA] Collaborative Research: PPoSS: Planning: Efficient and scalable learning and management of distributed probabilistic graphs. U.S. National Science Foundation, 101K USD. (美国国家自然科学基金)
+- **[RA]** Collaborative Research: PPoSS: Planning: Efficient and scalable learning and management of distributed probabilistic graphs. U.S. National Science Foundation, 101K USD. (美国国家自然科学基金)
 
--	[RA] Research on key technologies for efficient and trustworthy construction of cyber-physical systems under uncertain environments. Natural Science Foundation of China, 0.65M RMB. (国家自然科学基金面上项目)
+-	**[RA]** Research on key technologies for efficient and trustworthy construction of cyber-physical systems under uncertain environments. Natural Science Foundation of China, 0.65M RMB. (国家自然科学基金面上项目)
 
--	[RA] Research on key technologies for efficient and trusted construction of cloud-end cyber-physical systems. Natural Science Foundation of China, 0.54M RMB. (国家自然科学基金面上项目)
+-	**[RA]** Research on key technologies for efficient and trusted construction of cloud-end cyber-physical systems. Natural Science Foundation of China, 0.54M RMB. (国家自然科学基金面上项目)
 
 
 # 📐 Teaching
