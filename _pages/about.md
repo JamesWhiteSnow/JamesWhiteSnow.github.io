@@ -37,9 +37,10 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 # 🔥 News
 
 <font color=blue>
-<b>I am open to collaborating in the fields of data mining and artificial intelligence. Please reach out if you are interested.</b>
+<b>I am open to collaborating in the fields of data mining and artificial intelligence. Please reach out if you are interested. (ytye@stu.ecnu.edu.cn or yye8@kent.edu)</b>
 </font>
-(ytye@stu.ecnu.edu.cn or yye8@kent.edu)
+
+
 
 
 <!-- # 🔥 News
@@ -55,7 +56,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: PVLDB - 1, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
 
-**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](). IET Intelligent Transport Systems (**IET ITS, CCF-C**), 2025. (IF=2.8).
+**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
 
 **[J9]** **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding](https://vldb.org/pvldb/volumes/17/paper/Efficient%20Exact%20Subgraph%20Matching%20via%20GNN-based%20Path%20Dominance%20Embedding). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2024. (IF=2.86).
 
@@ -98,7 +99,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[C4]** Jiali Wang, **Yutong Ye**, Ting Wang, and Mingsong Chen. [LWSA: A Learning-Based Workflow Scheduling Algorithm for Energy-Efficient UAV Delivery System](https://ieeexplore.ieee.org/abstract/document/10476313). IEEE International Conference on Parallel and Distributed Systems (**ICPADS, EI**), Ocean Flower Island, China, Dec. 17-21, 2023. (Acceptance Rate: 37%).
 
-**[C3]** **Yutong Ye**, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, and Xiang Lian. [InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/550). International Joint Conference on Artificial Intelligence (**IJCAI,CCF-A**), Macao, China, Aug. 19-25, 2023. (Acceptance Rate: 14%).
+**[C3]** **Yutong Ye**, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, and Xiang Lian. [InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/550). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Macao, China, Aug. 19-25, 2023. (Acceptance Rate: 14%).
 
 **[C2]** **Yutong Ye**, Wupan Zhao, Tongquan Wei, Shiyan Hu, and Mingsong Chen. [FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/9586175). Design Automation Conference (**DAC, CCF-A**), San Francisco, USA, Jun. 23-27, 2021. (Acceptance Rate: 23%).
 
