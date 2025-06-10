@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently an Excellence (卓越百人) Postdoc at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.**
+**I am currently an Excellence Postdoc (卓越百人博士后) at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.**
 
 Previously, I was a Visiting Scholar at the Department of Computer Science, Kent State University (KSU), United State, advised by Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>. 
 
@@ -62,7 +62,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: PVLDB - 1, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
 
-**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
+**[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.70050). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
 
 **[J9]** **Yutong Ye**, Xiang Lian, and Mingsong Chen. [Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding](https://vldb.org/pvldb/volumes/17/paper/Efficient%20Exact%20Subgraph%20Matching%20via%20GNN-based%20Path%20Dominance%20Embedding). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2024. (IF=2.86).
 
@@ -89,9 +89,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, August 16-22, 2025. (Acceptance Rate: 19.3%).
 
-**[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
+**[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://ieeexplore.ieee.org/abstract/document/10888354/). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
-**[C10]** Yingbo Zhou, Pengyu Zhang, **Yutong Ye**, Zhihao Yue, Xian Wei, and Mingsong Chen. [FiTGAN: Content Fusion with Style Transformation for Few-shot Image Generation](https://www.cs.kent.edu/~yye/index.html). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
+**[C10]** Yingbo Zhou, Pengyu Zhang, **Yutong Ye**, Zhihao Yue, Xian Wei, and Mingsong Chen. [FiTGAN: Content Fusion with Style Transformation for Few-shot Image Generation](https://ieeexplore.ieee.org/abstract/document/10888773). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
 **[C9]** Yingbo Zhou, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [Exact Fusion via Feature Distribution Matching for Few-shot Image Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Exact_Fusion_via_Feature_Distribution_Matching_for_Few-shot_Image_Generation_CVPR_2024_paper.html). Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**), Seattle, USA, Jun. 17-21, 2024. (Acceptance Rate: 24%).
 
@@ -103,7 +103,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[C5]** **Yutong Ye**, Zhiwei Ling, Yaning Yang, Xian Wei, Chen Cheng, Su Chen, and Mingsong Chen. [Brief Industry Paper: RTLight: Digital Twin-based Real-Time Federated Traffic Signal Control](https://ieeexplore.ieee.org/abstract/document/10406112). Real-Time Systems Symposium (**RTSS, CCF-A**), Taipei, China, Dec. 5-8, 2023. (Acceptance Rate: 28%).
 
-**[C4]** Jiali Wang, **Yutong Ye**, Ting Wang, and Mingsong Chen. [LWSA: A Learning-Based Workflow Scheduling Algorithm for Energy-Efficient UAV Delivery System](https://ieeexplore.ieee.org/abstract/document/10476313). IEEE International Conference on Parallel and Distributed Systems (**ICPADS, EI**), Ocean Flower Island, China, Dec. 17-21, 2023. (Acceptance Rate: 37%).
+**[C4]** Jiali Wang, **Yutong Ye**, Ting Wang, and Mingsong Chen. [LWSA: A Learning-Based Workflow Scheduling Algorithm for Energy-Efficient UAV Delivery System](https://ieeexplore.ieee.org/abstract/document/10476313). IEEE International Conference on Parallel and Distributed Systems (**ICPADS, CCF-C**), Ocean Flower Island, China, Dec. 17-21, 2023. (Acceptance Rate: 37%).
 
 **[C3]** **Yutong Ye**, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, and Xiang Lian. [InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/550). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Macao, China, Aug. 19-25, 2023. (Acceptance Rate: 14%).
 
@@ -170,15 +170,19 @@ Instructor: Prof. Ting Wang
 
 # 💬 Talks and Presentations
 
--	**Yutong Ye (Presenter)**. Learning-based Graph Query Optimization. Next-Generation Big Graph Learning and Analytics (co-located with IEEE BigData 2024), Washington D.C., Dec. 15, 2024
+-	**[Invited Talk]** Learning-based Graph Query Optimization. Next-Generation Big Graph Learning and Analytics (co-located with IEEE BigData 2024), Washington D.C., Dec. 15, 2024
 
--	**Yutong Ye (Presenter)**. Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding. International Conference on Very Large Databases (VLDB), Guangzhou, China, Aug. 26-30, 2024.
+-	**[Oral]** Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding. International Conference on Very Large Databases (VLDB), Guangzhou, China, Aug. 26-30, 2024.
 
--	**Yutong Ye (Presenter)**. Exact Fusion via Feature Distribution Matching for Few-shot Image Generation. Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, Jun. 17-21, 2024.
+-	**[Poster]** Exact Fusion via Feature Distribution Matching for Few-shot Image Generation. Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, Jun. 17-21, 2024.
 
--	**Yutong Ye (Presenter)**. InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning. International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, Aug. 19-25, 2023.
+-	**[Oral]** Situation-Dependent Causal Influence-Based Cooperative Multi-Agent Reinforcement Learning. AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, Feb. 20-27, 2024. 
 
--	**Yutong Ye (Presenter)**. FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021.
+-	**[Poster]** Brief Industry Paper: RTLight: Digital Twin-based Real-Time Federated Traffic Signal Control. Real-Time Systems Symposium (RTSS), Taipei, China, Dec. 5-8, 2023.
+
+-	**[Oral]** InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning. International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, Aug. 19-25, 2023.
+
+-	**[Oral]** FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021.
 
 # 🎓 Professional Services
 
@@ -190,27 +194,46 @@ Instructor: Prof. Ting Wang
 
 ## Program Committee (PC) Member and Reviewer for:
 -	ACM SIGMOD ARI (Availability & Reproducibility Initiative): 2024
+
 -	International Conference on Machine Learning (ICML): 2025
+
 -	Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025
+
 -	ACM The Web Conference (WWW): 2025
+
 -	International Conference on Learning Representations (ICLR): 2025
+
 -	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
+
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025
+
 -	International Workshop on Next-Generation Big Graph Learning and Analytics (in conjunction with IEEE BigData Conference 2024)
 
 ## External Conference Reviewer for
 -	International Conference on Very Large Data Bases (VLDB): 2024, 2025
+
 -	IEEE International Conference on Data Engineering (ICDE): 2025
+
 -	International Conference on Extending Database Technology (EDBT): 2024, 2025
+
 -	ACM International Conference on Information and Knowledge Management (CIKM): 2024, 2025
+
 -	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2023, 2024
+
 -	International Joint Conference on Artificial Intelligence (IJCAI): 2024, 2025
+
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2023, 2025
+
 -	Pacific Asia Knowledge Discovery and Data Mining (PAKDD): 2024, 2025
+
 -	International Conference on Database Systems for Advanced Applications (DASFAA): 2023
--	The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM): 2023, 2024, 2025
+
+-	The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM): 2023 - 2025
+
 -	International Conference on Advanced Data Mining and Applications (ADMA): 2023, 2024
+
 -	IEEE International Conference on Robotics and Automation (ICRA): 2024
+
 -	Design Automation Test in Europe (DATE): 2023
 
 ## External Journal Reviewer for
