@@ -60,7 +60,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Journal
 
-***Statistics: PVLDB - 1, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+***Statistics: PVLDB - 2, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+
+**[J11]** Qi Wen, **Yutong Ye**, Xiang Lian and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
 
 **[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.70050). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
 
@@ -85,9 +87,11 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1***
+***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
-**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, August 16-22, 2025. (Acceptance Rate: 19.3%).
+**[C13]** Yuyang Wang, **Yutong Ye**, Yingbo Zhou, Qi Wen, Xiang Lian, Xian Wei and Mingsong Chen. [MuseCNN: Embedding-Guided Polyphonic Music Accompaniment Generation](). International Conference on Software Engineering and Knowledge Engineering (**SEKE, CCF-C**), Pompeii, Italy, September 29-30, 2025. (Acceptance Rate: 36%).
+
+**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, Canada, August 16-22, 2025. (Acceptance Rate: 19.3%).
 
 **[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://ieeexplore.ieee.org/abstract/document/10888354/). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
