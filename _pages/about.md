@@ -87,7 +87,11 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C15]** **Yutong Ye**, Xiang Lian, Nan Zhang, and Mingsong Chen. [Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings](). International Conference on Management of Data (**SIGMOD, CCF-A**), Bengaluru, India, May 31-June 5, 2026. 
+
+**[C14]** Qi Wen, Yiyang Zhang, **Yutong Ye**, Yingbo Zhou, Nan Zhang, Xiang Lian and Mingsong Chen. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Seoul, Korea, Novemeber 10-14, 2025 (Acceptance Rate: 21.7%).
 
 **[C13]** Yuyang Wang, **Yutong Ye**, Yingbo Zhou, Qi Wen, Xiang Lian, Xian Wei and Mingsong Chen. [MuseCNN: Embedding-Guided Polyphonic Music Accompaniment Generation](). International Conference on Software Engineering and Knowledge Engineering (**SEKE, CCF-C**), Pompeii, Italy, September 29-30, 2025. (Acceptance Rate: 36%).
 
@@ -207,7 +211,9 @@ Instructor: Prof. Ting Wang
 
 -	International Conference on Learning Representations (ICLR): 2025
 
--	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
+- AAAI Conference on Artificial Intelligence (AAAI): 2026
+
+-	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025
 
@@ -216,7 +222,7 @@ Instructor: Prof. Ting Wang
 ## External Conference Reviewer for
 -	International Conference on Very Large Data Bases (VLDB): 2024, 2025
 
--	IEEE International Conference on Data Engineering (ICDE): 2025
+-	IEEE International Conference on Data Engineering (ICDE): 2025, 2026
 
 -	International Conference on Extending Database Technology (EDBT): 2024, 2025
 
@@ -260,6 +266,8 @@ Instructor: Prof. Ting Wang
 
 
 # 🏆 Honors and Awards
+- *2025*, Outstanding Doctoral Dissertation Award of CCF Embedded Systems Technical Committee. 中国计算机学会嵌入式系统专委博士学位论文激励计划
+
 - *2025*, Outstanding Graduate of Shanghai. 上海市优秀毕业生
 
 -	*2024*, Youth Talents Support Project (Doctoral Student Special Program), China Association for Science and Technology. 中国科协青年人才托举工程博士生专项（首批）
@@ -274,7 +282,7 @@ Instructor: Prof. Ting Wang
 
 -	*2020*, Outstanding Graduate of Guangxi Province. 广西区优秀毕业生
 
-- *2019*, President Scholarship, Guangxi Normal University. 校长奖学金
+- *2019*, President Scholarship of Guangxi Normal University. 校长奖学金
 
 -	*2019*, China National Scholarship (Undergraduate Student). 国家奖学金
 
