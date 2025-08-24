@@ -87,7 +87,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
 **[C15]** **Yutong Ye**, Xiang Lian, Nan Zhang, and Mingsong Chen. [Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings](). International Conference on Management of Data (**SIGMOD, CCF-A**), Bengaluru, India, May 31-June 5, 2026. 
 
@@ -177,6 +177,8 @@ Office hour: 18:00pm - 20:45pm, Wednesday
 Instructor: Prof. Ting Wang
 
 # 💬 Talks and Presentations
+
+- **[Invited Talk]** Research on Intelligent Traffic Signal Control Based on Reinforcement Learning. China Computer Federation Embedded Systems Technical Committee (CCF ESTC), Xian, China, Aug. 15-17, 2025.
 
 -	**[Invited Talk]** Learning-based Graph Query Optimization. Next-Generation Big Graph Learning and Analytics (co-located with IEEE BigData 2024), Washington D.C., Dec. 15, 2024
 
