@@ -12,5 +12,14 @@ main:
   - title: "Research Projects and Grants"
     url: "/#-research-projects-and-grants"
 
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  - title: "Talks and Presentations"
+    url: "/#-talks-and-presentations"
+
+  - title: "Professional Services"
+    url: "/#-professional-services"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

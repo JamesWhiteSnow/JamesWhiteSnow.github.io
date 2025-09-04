@@ -140,6 +140,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[R1]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Feature Equalization Fusion for Few-shot Image Generation](https://arxiv.org/abs/2307.14638). arXiv:2307.14638, 2023.
 
+
+
+
 # 💻 Research Projects and Grants
 
 -	**[PI]** Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
@@ -151,6 +154,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 -	**[PI]** Parallel Algorithm Design and Optimization of Chemical Potential Lattice Boltzmann Method Based on GPU Computing. National Undergraduate Training Programs for Innovation and Entrepreneurship, 7K RMB. (省级大学生创新创业训练计划)
 
 -	**[PI]** Research on RSU Deployment Problem based on Intelligent Optimization Algorithm, National Undergraduate Training Programs for Innovation and Entrepreneurship, 4K RMB. (省级大学生创新创业训练计划)
+
+- **[Co-PI]** Research on intelligent landslide identification and early warning driven by physics and data. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
 
 -	**[Co-PI]** Research on scheduling optimization of green manufacturing and trusted services under crowd intelligence environment. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
 
