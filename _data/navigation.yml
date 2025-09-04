@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  -title: "Research Projects and Grants"
+  - title: "Research Projects and Grants"
     url: "/#-research-projects-and-grants"
 
   - title: "Honors and Awards"
