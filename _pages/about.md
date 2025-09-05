@@ -21,17 +21,25 @@ redirect_from:
 
 Previously, I was a Visiting Scholar at the Department of Computer Science, Kent State University (KSU), United State, advised by Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>. 
 
-I received my Ph.D. Degree in June, 2025 from East China Normal University (ECNU), China, supervised by Prof. <a href="https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp" target="_blank"><b>Mingsong Chen</b></a> and Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a>.
+I received my Ph.D. Degree in June, 2025 from East China Normal University (ECNU), China, supervised by Prof. <a href="https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp" target="_blank"><b>Mingsong Chen</b></a>.
 
 I obtained my Bachelor Degree in June, 2020 from Guangxi Normal University (GXNU), China, supervised by Prof. <a href="http://www.cs.gxnu.edu.cn/2015/0915/c4858a94329/pagem.htm" target="_blank"><b>Xianxian Li</b></a> and Prof. <a href="http://www.cs.gxnu.edu.cn/wjl/listm.htm" target="_blank"><b>Jingli wu</b></a>.
 
 My research interests mainly include:
 
-- ***Graph Data Management (e.g., Graph Query Processing and Optimization, Graph Learning, ...)***
+- ***Graph Data Mining and Analysis***
 
-- ***Transportation Big Data (Time Series Analysis, Reinforcement Learning,  ...)***
+  - Graph Query Processing and Optimization
 
-- Other Artificial Intelligence Fields
+  - Graph Learning
+
+- ***Big Data***
+
+  - Efficient GNN Training
+
+  - Time Series Data
+
+  - Transportation Optimization
 
 <!-- I have published more than 30 papers at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI. -->
 
