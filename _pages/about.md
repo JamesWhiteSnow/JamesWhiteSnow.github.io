@@ -217,9 +217,9 @@ Instructor: Prof. Ting Wang
 
 -	Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025
 
--	ACM The Web Conference (WWW): 2025
+-	ACM The Web Conference (WWW): 2025, 2026
 
--	International Conference on Learning Representations (ICLR): 2025
+-	International Conference on Learning Representations (ICLR): 2025, 2026
 
 - AAAI Conference on Artificial Intelligence (AAAI): 2026
 
