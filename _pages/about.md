@@ -207,8 +207,13 @@ Instructor: Prof. Ting Wang
 ***Statistics: Journal Reviewer - 2, Conference/Workshop Reviewer - 8, External Conference Reviewer - 13, External Journal Reviewer - 8***
 
 ## Journal Reviewer for:
--	Data & Knowledge Engineering (DKE): 2024, 2025
--	Frontiers in Big Data (FBD): 2024
+- IEEE Transactions on Computers (TC)
+
+-	Data & Knowledge Engineering (DKE)
+
+-	Frontiers in Big Data (FBD)
+
+- Journal of Circuits, Systems, and Computers (JCSC)
 
 ## Program Committee (PC) Member and Reviewer for:
 -	ACM SIGMOD ARI (Availability & Reproducibility Initiative): 2024
