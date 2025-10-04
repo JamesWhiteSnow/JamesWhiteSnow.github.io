@@ -58,6 +58,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2025 (<font color=red><b>CCF-B</b></font>)!
 - *2025.07*: &nbsp;🎉🎉 Our paper got accepted by VLDB 2025 (<font color=red><b>CCF-A</b></font>)!
 - *2025.07*: &nbsp;🎉🎉 Our paper got accepted by SEKE 2025 (<font color=red><b>CCF-C</b></font>)!
+- *2025.04*: &nbsp;🎉🎉 Our paper got accepted by IJCAI 2025 (<font color=red><b>CCF-A</b></font>)!
 
 # 📝 Publications 
 
