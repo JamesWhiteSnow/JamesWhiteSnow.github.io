@@ -54,6 +54,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 Our paper got accepted by JSA 2025 (<font color=red><b>CCF-B</b></font>)! 
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2025 (<font color=red><b>CCF-B</b></font>)!
 - *2025.07*: &nbsp;🎉🎉 Our paper got accepted by VLDB 2025 (<font color=red><b>CCF-A</b></font>)!
@@ -64,7 +65,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Journal
 
-***Statistics: PVLDB - 2, TCAD - 1, TIFS - 1, TSC - 1, JSA - 1, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+***Statistics: PVLDB - 2, TCAD - 1, TIFS - 1, TSC - 1, JSA - 2, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+
+**[J12]** Jiepin Ding, Jun Xia, **Yutong Ye**, and Mingsong Chen. [Effective reinforcement learning-based dynamic flexible job shop scheduling using two-stage dispatching](https://www.sciencedirect.com/science/article/pii/S1383762125003364). Journal of Systems Architecture (**JSA, CCF-B**), 2025. (IF=4.5).
 
 **[J11]** Qi Wen, **Yutong Ye**, Xiang Lian and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
 
