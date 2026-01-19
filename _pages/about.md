@@ -69,7 +69,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[J12]** Jiepin Ding, Jun Xia, **Yutong Ye**, and Mingsong Chen. [Effective reinforcement learning-based dynamic flexible job shop scheduling using two-stage dispatching](https://www.sciencedirect.com/science/article/pii/S1383762125003364). Journal of Systems Architecture (**JSA, CCF-B**), 2025. (IF=4.5).
 
-**[J11]** Qi Wen, **Yutong Ye**, Xiang Lian and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
+**[J11]** Qi Wen, **Yutong Ye**, Xiang Lian and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](https://www.vldb.org/pvldb/vol18/p3708-wen.pdf). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
 
 **[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.70050). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
 
@@ -96,13 +96,13 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: SIGMOD - 1, ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
-**[C15]** **Yutong Ye**, Xiang Lian, Nan Zhang, and Mingsong Chen. [Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings](). International Conference on Management of Data (**SIGMOD, CCF-A**), Bengaluru, India, May 31-June 5, 2026. 
+**[C15]** **Yutong Ye**, Xiang Lian, Nan Zhang, and Mingsong Chen. [Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings](https://dl.acm.org/doi/abs/10.1145/3769774). International Conference on Management of Data (**SIGMOD, CCF-A**), Bengaluru, India, May 31-June 5, 2026. 
 
-**[C14]** Qi Wen, Yiyang Zhang, **Yutong Ye**, Yingbo Zhou, Nan Zhang, Xiang Lian and Mingsong Chen. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Seoul, Korea, Novemeber 10-14, 2025 (Acceptance Rate: 21.7%).
+**[C14]** Qi Wen, Yiyang Zhang, **Yutong Ye**, Yingbo Zhou, Nan Zhang, Xiang Lian and Mingsong Chen. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](https://dl.acm.org/doi/abs/10.1145/3746252.3761327). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Seoul, Korea, Novemeber 10-14, 2025 (Acceptance Rate: 21.7%).
 
 **[C13]** Yuyang Wang, **Yutong Ye**, Yingbo Zhou, Qi Wen, Xiang Lian, Xian Wei and Mingsong Chen. [MuseCNN: Embedding-Guided Polyphonic Music Accompaniment Generation](). International Conference on Software Engineering and Knowledge Engineering (**SEKE, CCF-C**), Pompeii, Italy, September 29-30, 2025. (Acceptance Rate: 36%).
 
-**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, Canada, August 16-22, 2025. (Acceptance Rate: 19.3%).
+**[C12]** Li Sun, Suyang Zhou, Bowen Fang, Hechuan Zhang, Junda Ye, **Yutong Ye**, Philip Yu. [Trace: Structural Riemannian Bridge Matching for Transferable Source Localization](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1963.pdf). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Montreal, Canada, August 16-22, 2025. (Acceptance Rate: 19.3%).
 
 **[C11]** Yingbo Zhou, Zhihao Yue, **Yutong Ye**, Pengyu Zhang, Xian Wei, and Mingsong Chen. [EqGAN: Reformation-based Feature Equalization Fusion for Few-shot Image Generation](https://ieeexplore.ieee.org/abstract/document/10888354/). IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, CCF-B**), Hyderabad, India, Apr. 6-11, 2025.
 
@@ -157,6 +157,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 💻 Research Projects and Grants
 
+- **[PI]** General Program of the China Postdoctoral Science Foundation (CPSF), 80K RMB. (中国博士后科学基金资助面上资助)
+
 -	**[PI]** Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
 
 -	**[PI]** Research on Intelligent Transportation System Based on Deep Learning. East China Normal University Academic Innovation Promotion Program for Excellent Doctoral Students, 30K RMB. (华东师范大学优秀博士生学术创新能力提升计划)
@@ -178,6 +180,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 -	**[RA]** Research on key technologies for efficient and trustworthy construction of cyber-physical systems under uncertain environments. Natural Science Foundation of China, 0.65M RMB. (国家自然科学基金面上项目)
 
 -	**[RA]** Research on key technologies for efficient and trusted construction of cloud-end cyber-physical systems. Natural Science Foundation of China, 0.54M RMB. (国家自然科学基金面上项目)
+
 
 
 # 📐 Teaching
@@ -206,12 +209,19 @@ Instructor: Prof. Ting Wang
 
 -	**[Oral]** FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021.
 
+
+
+
 # 🎓 Professional Services
 
 ***Statistics: Journal Reviewer - 2, Conference/Workshop Reviewer - 8, External Conference Reviewer - 13, External Journal Reviewer - 8***
 
 ## Journal Reviewer for:
 - IEEE Transactions on Computers (TC)
+
+- IEEE Transactions on Big Data (TBD)
+
+- Knowledge and Information Systems (KIS)
 
 -	Data & Knowledge Engineering (DKE)
 
@@ -253,7 +263,7 @@ Instructor: Prof. Ting Wang
 
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2023, 2025
 
--	Pacific Asia Knowledge Discovery and Data Mining (PAKDD): 2024, 2025
+-	Pacific Asia Knowledge Discovery and Data Mining (PAKDD): 2024, 2025, 2026
 
 -	International Conference on Database Systems for Advanced Applications (DASFAA): 2023
 
