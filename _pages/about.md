@@ -54,6 +54,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 🔥 News
 
+- *2026.02*: &nbsp;🎉🎉 Our paper got accepted by ICDE 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2025.12*: &nbsp;🎉🎉 Our paper got accepted by JSA 2025 (<font color=red><b>CCF-B</b></font>)! 
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2025 (<font color=red><b>CCF-B</b></font>)!
@@ -94,7 +95,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 1, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 2, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C16]** Yang Liu, Mengyi Yan, Jiao Xue, Weilong Ren, **Yutong Ye**, Haoyi Zhou, Zhumin Chen, and Jianxin Li. [SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing](). IEEE International Conference on Data Engineering (**ICDE, CCF-A**), Montréal, Canada, May 4-8, 2026. 
 
 **[C15]** **Yutong Ye**, Xiang Lian, Nan Zhang, and Mingsong Chen. [Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings](https://dl.acm.org/doi/abs/10.1145/3769774). International Conference on Management of Data (**SIGMOD, CCF-A**), Bengaluru, India, May 31-June 5, 2026. 
 
@@ -232,7 +235,9 @@ Instructor: Prof. Ting Wang
 ## Program Committee (PC) Member and Reviewer for:
 -	ACM SIGMOD ARI (Availability & Reproducibility Initiative): 2024
 
--	International Conference on Machine Learning (ICML): 2025
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026
+
+-	International Conference on Machine Learning (ICML): 2025, 2026
 
 -	Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025
 
@@ -242,6 +247,8 @@ Instructor: Prof. Ting Wang
 
 - AAAI Conference on Artificial Intelligence (AAAI): 2026
 
+- International Joint Conference on Artificial Intelligence (IJCAI-ECAI): 2026 
+
 -	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025
@@ -249,7 +256,7 @@ Instructor: Prof. Ting Wang
 -	International Workshop on Next-Generation Big Graph Learning and Analytics (in conjunction with IEEE BigData Conference 2024)
 
 ## External Conference Reviewer for
--	International Conference on Very Large Data Bases (VLDB): 2024, 2025
+-	International Conference on Very Large Data Bases (VLDB): 2024, 2025, 2026
 
 -	IEEE International Conference on Data Engineering (ICDE): 2025, 2026
 
