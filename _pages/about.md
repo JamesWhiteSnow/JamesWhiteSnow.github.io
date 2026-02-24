@@ -251,7 +251,7 @@ Instructor: Prof. Ting Wang
 
 -	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 
--	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025
+-	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025, 2026
 
 -	International Workshop on Next-Generation Big Graph Learning and Analytics (in conjunction with IEEE BigData Conference 2024)
 
