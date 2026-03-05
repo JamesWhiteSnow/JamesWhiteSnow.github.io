@@ -135,6 +135,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: Technical Report - 10***
 
+**[R11]** Qi Wen, Xiang Lian, Nan Zhang, **Yutong Ye**, Mingsong Chen. [S3GND: An Effective Learning-Based Approach for Subgraph Similarity Search Under Generalized Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2602.19167v2). arXiv: 2602.19167, 2026
+
 **[R10]** Qi Wen, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2505.00393). arXiv: 2505.00393, 2025
 
 **[R9]** **Yutong Ye**, Yingbo Zhou, Zhusen Liu, Xiao Du, Hao Zhou, Xiang Lian, and Mingsong Chen. [FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control](https://arxiv.org/abs/2502.11937). arXiv: 2502.11937, 2025
@@ -160,7 +162,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 💻 Research Projects and Grants
 
-- **[PI]** General Program of the China Postdoctoral Science Foundation (CPSF), 80K RMB. (中国博士后科学基金资助面上资助)
+- **[PI]** Research on Deep Learning Modeling and Processing Mechanisms for Complex Graph Queries. General Program of the China Postdoctoral Science Foundation (CPSF), 80K RMB. (中国博士后科学基金资助面上资助)
 
 -	**[PI]** Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
 
@@ -175,6 +177,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 - **[Co-PI]** Research on intelligent landslide identification and early warning driven by physics and data. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
 
 -	**[Co-PI]** Research on scheduling optimization of green manufacturing and trusted services under crowd intelligence environment. Shanghai Cross-innovation Science and Education Integration Fund (Intelligent Science and Technology Category IV Peak Discipline), 50K RMB. (上海市智能科学与技术IV类高峰学科“交叉创新科教融合基金”)
+
+- **[RA]**  Intelligent computing of big data on network behavior. The National Science Fund for Distinguished Young Scholars. 4M RMB. (国家杰出青年科学基金项目)
 
 -	**[RA]** Key technologies and applications of information-physical fusion in smart cities. National Key Research and Development Program, 17M RMB. (国家重点研发计划重点专项)
 
@@ -217,7 +221,7 @@ Instructor: Prof. Ting Wang
 
 # 🎓 Professional Services
 
-***Statistics: Journal Reviewer - 2, Conference/Workshop Reviewer - 8, External Conference Reviewer - 13, External Journal Reviewer - 8***
+***Statistics: Journal Reviewer - 6, Conference/Workshop Reviewer - 11, External Conference Reviewer - 13, External Journal Reviewer - 8***
 
 ## Journal Reviewer for:
 - IEEE Transactions on Computers (TC)
