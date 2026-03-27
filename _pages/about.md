@@ -133,13 +133,15 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Technical Report
 
-***Statistics: Technical Report - 10***
+***Statistics: Technical Report - 12***
 
-**[R11]** Qi Wen, Xiang Lian, Nan Zhang, **Yutong Ye**, Mingsong Chen. [S3GND: An Effective Learning-Based Approach for Subgraph Similarity Search Under Generalized Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2602.19167v2). arXiv: 2602.19167, 2026
+**[R12]** Wujie Xiong, Hao Zhou, **Yutong Ye**, Ruoming Jin, and Lei Xu. [Scaling Sparse Matrix Computation for Secure Outsourced Computing](https://eprint.iacr.org/2026/297). Cryptology ePrint Archive, Paper 2026/297, 2025.
 
-**[R10]** Qi Wen, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2505.00393). arXiv: 2505.00393, 2025
+**[R11]** Qi Wen, Xiang Lian, Nan Zhang, **Yutong Ye**, and Mingsong Chen. [S3GND: An Effective Learning-Based Approach for Subgraph Similarity Search Under Generalized Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2602.19167v2). arXiv: 2602.19167, 2026.
 
-**[R9]** **Yutong Ye**, Yingbo Zhou, Zhusen Liu, Xiao Du, Hao Zhou, Xiang Lian, and Mingsong Chen. [FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control](https://arxiv.org/abs/2502.11937). arXiv: 2502.11937, 2025
+**[R10]** Qi Wen, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)](https://arxiv.org/abs/2505.00393). arXiv: 2505.00393, 2025.
+
+**[R9]** **Yutong Ye**, Yingbo Zhou, Zhusen Liu, Xiao Du, Hao Zhou, Xiang Lian, and Mingsong Chen. [FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control](https://arxiv.org/abs/2502.11937). arXiv: 2502.11937, 2025.
 
 **[R8]** Nan Zhang, **Yutong Ye**, Yuyang Wang, Xiang Lian, and Mingsong Chen. [Effective Community Detection Over Streaming Bipartite Networks (Technical Report)](https://arxiv.org/abs/2411.01424). arXiv:2411.01424, 2024.
 
@@ -243,7 +245,7 @@ Instructor: Prof. Ting Wang
 
 -	International Conference on Machine Learning (ICML): 2025, 2026
 
--	Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025
+-	Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025, 2026
 
 -	ACM The Web Conference (WWW): 2025, 2026
 
@@ -287,21 +289,21 @@ Instructor: Prof. Ting Wang
 -	Design Automation Test in Europe (DATE): 2023
 
 ## External Journal Reviewer for
--	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD): 2022
+-	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
--	Journal of Systems Architecture (JSA): 2022
+-	Journal of Systems Architecture (JSA)
 
--	The International Journal of High-Performance Computing Applications (IJHPCA): 2020
+-	Journal of Circuits, Systems and Computers (JCSC)
 
--	ACM Journal of Data and Information Quality (JDIQ): 2024
+- IEEE Transactions on Services Computing (IEEE TSC)
 
--	Journal of Circuits, Systems and Computers (JCSC): 2024
+- IEEE Transactions on Information Forensics and Security (IEEE TIFS)
 
-- IEEE Transactions on Services Computing (IEEE TSC): 2024
+-	ACM Journal of Data and Information Quality (JDIQ)
 
-- IEEE Transactions on Information Forensics and Security (IEEE TIFS): 2024
+-	The International Journal of High-Performance Computing Applications (IJHPCA)
 
-- IET Intelligent Transport Systems (IET-ITS): 2025
+- IET Intelligent Transport Systems (IET-ITS)
 
 
 
