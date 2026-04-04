@@ -54,6 +54,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 Our paper got accepted by ICS 2026 (<font color=red><b>CCF-B</b></font>)! 
 - *2026.02*: &nbsp;🎉🎉 Our paper got accepted by ICDE 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2025.12*: &nbsp;🎉🎉 Our paper got accepted by JSA 2025 (<font color=red><b>CCF-B</b></font>)! 
 - *2025.08*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2026 (<font color=red><b>CCF-A</b></font>)! 
@@ -95,7 +96,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 2, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 2, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C17]** Wujie Xiong, Hao Zhou, **Yutong Ye**, Ruoming Jin and Lei Xu. [CipherSkip: Efficient Sparse Matrix Multiplication with FHE](). ACM International Conference on Supercomputing (**ICS, CCF-B**), Belfast, Northern Ireland, United Kingdom, July 6-9, 2026. 
 
 **[C16]** Yang Liu, Mengyi Yan, Jiao Xue, Weilong Ren, **Yutong Ye**, Haoyi Zhou, Zhumin Chen, and Jianxin Li. [SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing](). IEEE International Conference on Data Engineering (**ICDE, CCF-A**), Montréal, Canada, May 4-8, 2026. 
 
