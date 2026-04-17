@@ -71,7 +71,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 **[J12]** Jiepin Ding, Jun Xia, **Yutong Ye**, and Mingsong Chen. [Effective reinforcement learning-based dynamic flexible job shop scheduling using two-stage dispatching](https://www.sciencedirect.com/science/article/pii/S1383762125003364). Journal of Systems Architecture (**JSA, CCF-B**), 2025. (IF=4.5).
 
-**[J11]** Qi Wen, **Yutong Ye**, Xiang Lian and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](https://www.vldb.org/pvldb/vol18/p3708-wen.pdf). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
+**[J11]** Qi Wen, **Yutong Ye**, Xiang Lian, and Mingsong Chen. [S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics](https://www.vldb.org/pvldb/vol18/p3708-wen.pdf). Proceedings of the Very Large Data Bases Conferences Endowment (**PVLDB, CCF-A**), 2025. (IF=2.86).
 
 **[J10]** Shuhui Liang, **Yutong Ye**, and Jingli Wu. [An Effective Hybrid Optimization Algorithm for Static Rebalance Problem of Bicycle-sharing System](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.70050). IET Intelligent Transport Systems (**IET-ITS, CCF-C**), 2025. (IF=2.8).
 
@@ -98,7 +98,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: SIGMOD - 1, ICDE - 2, AAAI - 1, IJCAI - 2, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
-**[C17]** Wujie Xiong, Hao Zhou, **Yutong Ye**, Ruoming Jin and Lei Xu. [CipherSkip: Efficient Sparse Matrix Multiplication with FHE](). ACM International Conference on Supercomputing (**ICS, CCF-B**), Belfast, Northern Ireland, United Kingdom, July 6-9, 2026. 
+**[C17]** Wujie Xiong, Hao Zhou, **Yutong Ye**, Ruoming Jin, and Lei Xu. [CipherSkip: Efficient Sparse Matrix Multiplication with FHE](). ACM International Conference on Supercomputing (**ICS, CCF-B**), Belfast, Northern Ireland, United Kingdom, July 6-9, 2026. 
 
 **[C16]** Yang Liu, Mengyi Yan, Jiao Xue, Weilong Ren, **Yutong Ye**, Haoyi Zhou, Zhumin Chen, and Jianxin Li. [SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing](). IEEE International Conference on Data Engineering (**ICDE, CCF-A**), Montréal, Canada, May 4-8, 2026. 
 
