@@ -136,7 +136,11 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Technical Report
 
-***Statistics: Technical Report - 12***
+***Statistics: Technical Report - 14***
+
+**[R14]** **Yutong Ye**, Weilong Ren, Yang Liu, Mengyi Yan, Ruijie Wang, Li Sun, Jianxin Li, and Philip S. Yu. [LIVE: Learnable Monotonic Vertex Embedding for Efficient Exact Subgraph Matching (Technical Report)](https://arxiv.org/abs/2604.19116). arXiv: 2604.19116, 2026.
+
+**[R13]** Beibei Xu, **Yutong Ye**, Chuyun Shen, Yingbo Zhou, Cheng Chen, and Mingsong Chen. [HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning](https://arxiv.org/abs/2603.19639). arXiv: 2603.19639, 2026.
 
 **[R12]** Wujie Xiong, Hao Zhou, **Yutong Ye**, Ruoming Jin, and Lei Xu. [Scaling Sparse Matrix Computation for Secure Outsourced Computing](https://eprint.iacr.org/2026/297). Cryptology ePrint Archive, Paper 2026/297, 2025.
 
