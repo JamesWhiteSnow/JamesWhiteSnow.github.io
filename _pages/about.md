@@ -138,7 +138,11 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Technical Report
 
-***Statistics: Technical Report - 14***
+***Statistics: Technical Report - 16***
+
+**[R16]** Yingbo Zhou, **Yutong Ye**, Zhiwei Ling, Shuhao Li, Rui Qian, Jian Xiong, Li Sun, and Dejing Dou. [PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2605.02938). arXiv: 2605.02938, 2026.
+
+**[R15]** Yingbo Zhou, **Yutong Ye**, Shuhao Li, Rui Qian, Qiang Huang, Lemao Liu, Li Sun, and Dejing Dou. [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2605.00466). arXiv: 2605.00466, 2026.
 
 **[R14]** **Yutong Ye**, Weilong Ren, Yang Liu, Mengyi Yan, Ruijie Wang, Li Sun, Jianxin Li, and Philip S. Yu. [LIVE: Learnable Monotonic Vertex Embedding for Efficient Exact Subgraph Matching (Technical Report)](https://arxiv.org/abs/2604.19116). arXiv: 2604.19116, 2026.
 
