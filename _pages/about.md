@@ -53,6 +53,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper got accepted by KDD 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2026.05*: &nbsp;🎉🎉 Our paper got accepted by IJCAI 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2026.04*: &nbsp;🎉🎉 Our paper got accepted by ICS 2026 (<font color=red><b>CCF-B</b></font>)! 
 - *2026.02*: &nbsp;🎉🎉 Our paper got accepted by ICDE 2026 (<font color=red><b>CCF-A</b></font>)! 
@@ -96,7 +97,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 2, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C18]** Yuhan Wang, Yibo Ding, **Yutong Ye**, Mufan Zhao, Wenbo Zhang, Ruijie Wang, and Jianxin Li. [G^2LoRA: Gradient Orthogonal Low-Rank Adaptation Framework for Graph Continual Learning on Text-Attributed Graphs](). Conference on Knowledge Discovery and Data Mining (**KDD, CCF-A**), Jeju, Korea, August 9-13, 2026. 
 
 **[C18]** Yiyang Zhang, Yutong Ye, Yingbo Zhou, Nan Zhang, Xiang Lian, and Mingsong Chen. [Similarity-guided Structural Matching Learning for Graph Dataset Condensation](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Bremen, Germany, August 15-21, 2026. 
 
