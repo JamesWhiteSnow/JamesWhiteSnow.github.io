@@ -257,6 +257,8 @@ Instructor: Prof. Ting Wang
 ## Program Committee (PC) Member and Reviewer for:
 -	ACM SIGMOD ARI (Availability & Reproducibility Initiative): 2024
 
+- International Conference on Very Large Data Bases (VLDB): 2026
+
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026
 
 -	International Conference on Machine Learning (ICML): 2025, 2026
@@ -270,6 +272,8 @@ Instructor: Prof. Ting Wang
 - AAAI Conference on Artificial Intelligence (AAAI): 2026
 
 - International Joint Conference on Artificial Intelligence (IJCAI-ECAI): 2026 
+
+- ACM International Conference on Information and Knowledge Management (CIKM): 2026
 
 -	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 
