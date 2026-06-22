@@ -99,7 +99,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
-**[C18]** Yuhan Wang, Yibo Ding, **Yutong Ye**, Mufan Zhao, Wenbo Zhang, Ruijie Wang, and Jianxin Li. [G^2LoRA: Gradient Orthogonal Low-Rank Adaptation Framework for Graph Continual Learning on Text-Attributed Graphs](). Conference on Knowledge Discovery and Data Mining (**KDD, CCF-A**), Jeju, Korea, August 9-13, 2026. 
+**[C19]** Yuhan Wang, Yibo Ding, **Yutong Ye**, Mufan Zhao, Wenbo Zhang, Ruijie Wang, and Jianxin Li. [G^2LoRA: Gradient Orthogonal Low-Rank Adaptation Framework for Graph Continual Learning on Text-Attributed Graphs](). Conference on Knowledge Discovery and Data Mining (**KDD, CCF-A**), Jeju, Korea, August 9-13, 2026. 
 
 **[C18]** Yiyang Zhang, Yutong Ye, Yingbo Zhou, Nan Zhang, Xiang Lian, and Mingsong Chen. [Similarity-guided Structural Matching Learning for Graph Dataset Condensation](). International Joint Conference on Artificial Intelligence (**IJCAI, CCF-A**), Bremen, Germany, August 15-21, 2026. 
 
@@ -141,7 +141,11 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Technical Report
 
-***Statistics: Technical Report - 16***
+***Statistics: Technical Report - 18***
+
+**[R18]** Yuhan Wang, Yibo Ding, **Yutong Ye**, Mufan Zhao, Wenbo Zhang, Ruijie Wang, and Jianxin Li. [G2LoRA: Gradient Orthogonal Low-Rank Adaptation Framework for Graph Continual Learning on Text-Attributed Graphs](https://arxiv.org/abs/2606.01873). arXiv: 2606.01873, 2026.
+
+**[R17]** Xuefei Wang, Jialu Wang, Fengbo Zhang, Yihan Hu, Di Zhang, **Yutong Ye**, Yikun Ban, Jun Han, and Ruijie Wang. [MasFACT: Continual Multi-Agent Topology Learning via Geometry-Aware Posterior Transfer](https://arxiv.org/abs/2605.17361). arXiv: 2605.17361, 2026.
 
 **[R16]** Yingbo Zhou, **Yutong Ye**, Zhiwei Ling, Shuhao Li, Rui Qian, Jian Xiong, Li Sun, and Dejing Dou. [PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2605.02938). arXiv: 2605.02938, 2026.
 
@@ -242,6 +246,8 @@ Instructor: Prof. Ting Wang
 ***Statistics: Journal Reviewer - 6, Conference/Workshop Reviewer - 11, External Conference Reviewer - 13, External Journal Reviewer - 8***
 
 ## Journal Reviewer for:
+- Transactions on Machine Learning Research (TMLR)
+
 - IEEE Transactions on Computers (TC)
 
 - IEEE Transactions on Big Data (TBD)
@@ -271,13 +277,15 @@ Instructor: Prof. Ting Wang
 
 - AAAI Conference on Artificial Intelligence (AAAI): 2026
 
-- International Joint Conference on Artificial Intelligence (IJCAI-ECAI): 2026 
+- International Joint Conference on Artificial Intelligence (IJCAI-ECAI): 2026
 
 - ACM International Conference on Information and Knowledge Management (CIKM): 2026
 
 -	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025, 2026
+
+- Web Information Systems Engineering Conference (WISE): 2026
 
 -	International Workshop on Next-Generation Big Graph Learning and Analytics (in conjunction with IEEE BigData Conference 2024)
 
@@ -300,7 +308,7 @@ Instructor: Prof. Ting Wang
 
 -	International Conference on Database Systems for Advanced Applications (DASFAA): 2023
 
--	The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM): 2023 - 2025
+-	The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM): 2023, 2024, 2025, 2026
 
 -	International Conference on Advanced Data Mining and Applications (ADMA): 2023, 2024
 
