@@ -53,6 +53,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE TCAD (<font color=red><b>CCF-A</b></font>)! 
+- *2026.07*: &nbsp;🎉🎉 Our paper got accepted by ESWEEK (CODES) 2026 (<font color=red><b>CCF-B</b></font>)! 
 - *2026.05*: &nbsp;🎉🎉 Our paper got accepted by KDD 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2026.05*: &nbsp;🎉🎉 Our paper got accepted by IJCAI 2026 (<font color=red><b>CCF-A</b></font>)! 
 - *2026.04*: &nbsp;🎉🎉 Our paper got accepted by ICS 2026 (<font color=red><b>CCF-B</b></font>)! 
@@ -66,9 +68,13 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 📝 Publications 
 
+<sup>#</sup> Equal Contribution
+
 ## Journal
 
-***Statistics: PVLDB - 2, TCAD - 1, TIFS - 1, TSC - 1, JSA - 2, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+***Statistics: PVLDB - 2, TCAD - 2, TIFS - 1, TSC - 1, JSA - 2, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+
+**[J5]** Zhe Feng, **Yutong Ye<sup>#</sup>**, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, and Yuehua Dai. [SpiceDiff-Agent: Simulation-Efficient LLM-Guided Planning for Specification-Driven Analog Circuit Netlist Repair](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD, CCF-A**), 2026. (IF=2.9).
 
 **[J12]** Jiepin Ding, Jun Xia, **Yutong Ye**, and Mingsong Chen. [Effective reinforcement learning-based dynamic flexible job shop scheduling using two-stage dispatching](https://www.sciencedirect.com/science/article/pii/S1383762125003364). Journal of Systems Architecture (**JSA, CCF-B**), 2025. (IF=4.5).
 
@@ -97,7 +103,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C20]** Zhe Feng, **Yutong Ye<sup>#</sup>**, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, and Yuehua Dai. [SpiceDiff-Agent: Simulation-Efficient LLM-Guided Planning for Specification-Driven Analog Circuit Netlist Repair](). IEEE/ACM Embedded Systems Week (**ESWEEK (CODES), CCF-B**), Barcelona, Spain, October 4-9, 2026.
 
 **[C19]** Yuhan Wang, Yibo Ding, **Yutong Ye**, Mufan Zhao, Wenbo Zhang, Ruijie Wang, and Jianxin Li. [G^2LoRA: Gradient Orthogonal Low-Rank Adaptation Framework for Graph Continual Learning on Text-Attributed Graphs](). Conference on Knowledge Discovery and Data Mining (**KDD, CCF-A**), Jeju, Korea, August 9-13, 2026. 
 
