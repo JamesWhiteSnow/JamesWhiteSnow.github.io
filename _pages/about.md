@@ -192,6 +192,8 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 # 💻 Research Projects and Grants
 
+- **[PI]** Postdoctoral Fellowship Program of China Postdoctoral Science Foundation (CPSF), 240K RMB. (国家资助博士后研究人员计划C档资助)
+
 - **[PI]** Research on Deep Learning Modeling and Processing Mechanisms for Complex Graph Queries. General Program of the China Postdoctoral Science Foundation (CPSF), 80K RMB. (中国博士后科学基金资助面上资助)
 
 -	**[PI]** Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 40K RMB. (中国科协青年人才托举工程博士生专项)
@@ -228,6 +230,8 @@ Location: Room 102, TianJiaBing Hall, East China Normal University (Putuo Campus
 Office hour: 18:00pm - 20:45pm, Wednesday  
 Instructor: Prof. Ting Wang
 
+
+
 # 💬 Talks and Presentations
 
 - **[Invited Talk]** Research on Intelligent Traffic Signal Control Based on Reinforcement Learning. China Computer Federation Embedded Systems Technical Committee (CCF ESTC), Xian, China, Aug. 15-17, 2025.
@@ -245,7 +249,6 @@ Instructor: Prof. Ting Wang
 -	**[Oral]** InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning. International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, Aug. 19-25, 2023.
 
 -	**[Oral]** FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. Design Automation Conference (DAC), San Francisco, USA, Jun. 23-27, 2021.
-
 
 
 
