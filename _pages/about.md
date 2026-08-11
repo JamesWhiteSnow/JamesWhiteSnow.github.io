@@ -53,6 +53,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2026 (<font color=red><b>CCF-B</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE TCAD (<font color=red><b>CCF-A</b></font>)! 
 - *2026.07*: &nbsp;🎉🎉 Our paper got accepted by ESWEEK (CODES) 2026 (<font color=red><b>CCF-B</b></font>)! 
 - *2026.05*: &nbsp;🎉🎉 Our paper got accepted by KDD 2026 (<font color=red><b>CCF-A</b></font>)! 
@@ -103,7 +104,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C21]** Qinghao Chi, Chenglin Liu, Ting Deng, Ping Lu, **Yutong Ye**, and Chao Tian. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Rome, Italy, November 7-11, 2026 (Acceptance Rate: 27%).
 
 **[C20]** Zhe Feng, **Yutong Ye<sup>#</sup>**, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, and Yuehua Dai. [SpiceDiff-Agent: Simulation-Efficient LLM-Guided Planning for Specification-Driven Analog Circuit Netlist Repair](). IEEE/ACM Embedded Systems Week (**ESWEEK (CODES), CCF-B**), Barcelona, Spain, October 4-9, 2026.
 
