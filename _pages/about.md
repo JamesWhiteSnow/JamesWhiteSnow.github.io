@@ -53,6 +53,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2027 (<font color=red><b>CCF-A</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by ICDM 2026 (<font color=red><b>CCF-B</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2026 (<font color=red><b>CCF-B</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE TCAD (<font color=red><b>CCF-A</b></font>)! 
@@ -105,11 +106,13 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 1, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 2, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
 
-**[C21]** Suyang Zhou, Hechuan Zhang, Li Sun, **Yutong Ye**, Philip S. Yu, and Mingsong Chen. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](). IEEE International Conference on Data Mining (**ICDM, CCF-B**), Shenyang, China, November 12-15, 2026 (Acceptance Rate: 19.4%).
+**[C23]** Mengyi Yan, Dejun Chen, Weilong Ren, **Yutong Ye**, Haoyi Zhou, and Xiuzhen Cheng. [DynaGraph: Holistic Optimization for Latency-Critical GraphRAG Serving via Bidirectional Feedback](). ACM SIGMOD/PODS International Conference on Management of Data (**SIGMOD, CCF-A**), Huntington Beach, CA, USA, June 13-19, 2027.
 
-**[C21]** Qinghao Chi, Chenglin Liu, Ting Deng, Ping Lu, **Yutong Ye**, and Chao Tian. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics.](). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Rome, Italy, November 7-11, 2026 (Acceptance Rate: 27%).
+**[C22]** Suyang Zhou, Hechuan Zhang, Li Sun, **Yutong Ye**, Philip S. Yu, and Mingsong Chen. [Escaping the Mirror Trap: Parity-Harmonized Flow Matching on Riemannian Manifolds for Peptide Design](). IEEE International Conference on Data Mining (**ICDM, CCF-B**), Shenyang, China, November 12-15, 2026 (Acceptance Rate: 19.4%).
+
+**[C21]** Qinghao Chi, Chenglin Liu, Ting Deng, Ping Lu, **Yutong Ye**, and Chao Tian. [GCLS$^2$: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics](). The Conference on Information and Knowledge Management (**CIKM, CCF-B**), Rome, Italy, November 7-11, 2026 (Acceptance Rate: 27%).
 
 **[C20]** Zhe Feng, **Yutong Ye<sup>#</sup>**, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, and Yuehua Dai. [SpiceDiff-Agent: Simulation-Efficient LLM-Guided Planning for Specification-Driven Analog Circuit Netlist Repair](). IEEE/ACM Embedded Systems Week (**ESWEEK (CODES), CCF-B**), Barcelona, Spain, October 4-9, 2026.
 
@@ -298,7 +301,9 @@ Instructor: Prof. Ting Wang
 
 - ACM International Conference on Information and Knowledge Management (CIKM): 2026
 
--	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
+- International Conference on Web Search and Data Mining (WSDM): 2027
+
+-	International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026, 2027
 
 -	The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): 2025, 2026
 
