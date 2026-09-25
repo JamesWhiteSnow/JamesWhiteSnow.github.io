@@ -53,6 +53,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper got accepted by NeurIPS 2026 (<font color=red><b>CCF-A</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2027 (<font color=red><b>CCF-A</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by ICDM 2026 (<font color=red><b>CCF-B</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by CIKM 2026 (<font color=red><b>CCF-B</b></font>)!
@@ -106,7 +107,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 2, ICDE - 2, KDD - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 2, ICDE - 2, KDD - 1, NeurIPS - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C24]** Yingbo Zhou, **Yutong Ye**, Shuhao Li, Rui Qian, Qiang Huang, Lemao Liu, Li Sun, and Dejing Dou. [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](). Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**), Sydney, Australia, December 6-12, 2026.
 
 **[C23]** Mengyi Yan, Dejun Chen, Weilong Ren, **Yutong Ye**, Haoyi Zhou, and Xiuzhen Cheng. [DynaGraph: Holistic Optimization for Latency-Critical GraphRAG Serving via Bidirectional Feedback](). ACM SIGMOD/PODS International Conference on Management of Data (**SIGMOD, CCF-A**), Huntington Beach, CA, USA, June 13-19, 2027.
 
