@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently an Associate Professor (特聘副教授) at the College of Computer Science and Technology, Zhejiang Sci-Tech University (ZSTU), China.**
+**I am currently an Associate Professor (特聘副教授) at the College of Computer Science and Technology, Zhejiang Sci-Tech University (ZSTU), Hangzhou, China.**
 
 Previously, I was an Excellence Postdoctoral Fellow (卓越百人博士后) at Beihang University (BUAA) from 2025 to 2026, working with Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>. From 2024 to 2025, I was a Visiting Scholar at the Department of Computer Science, Kent State University, USA, working with Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>.
 

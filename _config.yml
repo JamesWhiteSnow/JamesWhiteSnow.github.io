@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yutong Ye"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
+  bio              : "Zhejiang Sci-Tech University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl"
-  email            : "yutongye@buaa.edu.cn"
+  email            : "ytye@zstu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
