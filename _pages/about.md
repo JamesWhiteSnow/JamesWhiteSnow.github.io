@@ -17,38 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently an Excellence Postdoc (卓越百人博士后) at the School of Computer Science and Engineering, Beihang University (BUAA), advised by Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>.**
+**I am currently an Associate Professor (特聘副教授) at the College of Computer Science and Technology, Zhejiang Sci-Tech University (ZSTU), China.**
 
-Previously, I was a Visiting Scholar at the Department of Computer Science, Kent State University (KSU), United State, advised by Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>. 
+Previously, I was an Excellence Postdoctoral Fellow (卓越百人博士后) at Beihang University from 2025 to 2026, working with Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>. From 2024 to 2025, I was a Visiting Scholar at the Department of Computer Science, Kent State University, USA, working with Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>.
 
-I received my Ph.D. Degree in June, 2025 from East China Normal University (ECNU), China, supervised by Prof. <a href="https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp" target="_blank"><b>Mingsong Chen</b></a>.
+I received my Ph.D. in Software Engineering from East China Normal University (ECNU) in 2025, supervised by Prof. <a href="https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp" target="_blank"><b>Mingsong Chen</b></a>. I received my bachelor's degree in Computer Science and Technology from Guangxi Normal University (GXNU) in 2020, supervised by Prof. <a href="http://www.cs.gxnu.edu.cn/2015/0915/c4858a94329/pagem.htm" target="_blank"><b>Xianxian Li</b></a> and Prof. <a href="http://www.cs.gxnu.edu.cn/wjl/listm.htm" target="_blank"><b>Jingli wu</b></a>.
 
-I obtained my Bachelor Degree in June, 2020 from Guangxi Normal University (GXNU), China, supervised by Prof. <a href="http://www.cs.gxnu.edu.cn/2015/0915/c4858a94329/pagem.htm" target="_blank"><b>Xianxian Li</b></a> and Prof. <a href="http://www.cs.gxnu.edu.cn/wjl/listm.htm" target="_blank"><b>Jingli wu</b></a>.
 
-My research interests mainly include:
+My research lies at the intersection of intelligent data management and AI infrastructure. I develop data management, analytics, and learning systems for complex interconnected data and AI applications. My research interests include:
 
-- ***Graph Data Mining and Analysis***
+- ***Data Systems for AI and Intelligent Data Management:*** AI-ready databases; data preparation, organization, and retrieval for large language models and AI agents; intelligent query optimization and automated data analytics.
 
-  - Graph Query Processing and Optimization
+- ***Graph Data Management and Analytics:*** Graph databases, graph query processing and optimization, subgraph matching, community discovery, and efficient graph mining.
 
-  - Graph Learning
+- ***Graph Learning and Applications:*** Graph machine learning and graph neural networks, time series and spatiotemporal data analysis, with applications in intelligent transportation and urban computing.
 
-- ***Big Data***
-
-  - Efficient GNN Training
-
-  - Time Series Data
-
-  - Transportation Optimization
-
-<!-- I have published more than 30 papers at top conferences and journals such as VLDB, ICDE, AAAI, IJCAI. -->
-
-I have published more than 30 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as SIGMOD, VLDB, ICDE, AAAI, IJCAI.
+I have published more than 50 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as SIGMOD, VLDB, ICDE, AAAI, IJCAI.
 
 Here are the links to some of my professional websites: <b><a a href="CV.pdf" target="_blank">Resume</a></b>, <b><a href="https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl" target="_blank">Google Scholar</a></b>, and <b><a href="https://dblp.uni-trier.de/pid/192/4957-1.html" target="_blank">DBLP</a></b>.
 
 <font color=blue>
-<b>I am open to collaborating in the fields of data mining and artificial intelligence. Please reach out if you are interested. (yutongye@buaa.edu.cn)</b>
+<b>I welcome research collaborations in data management, graph analytics, and artificial intelligence. Please feel free to contact me at ytye@zstu.edu.cn.</b>
 </font>
 
 
