@@ -42,6 +42,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Our paper got accepted by WSDM 2027 (<font color=red><b>CCF-B</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by NeurIPS 2026 (<font color=red><b>CCF-A</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2027 (<font color=red><b>CCF-A</b></font>)!
 - *2026.08*: &nbsp;🎉🎉 Our paper got accepted by ICDM 2026 (<font color=red><b>CCF-B</b></font>)!
@@ -96,7 +97,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Conference
 
-***Statistics: SIGMOD - 2, ICDE - 2, KDD - 1, NeurIPS - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+***Statistics: SIGMOD - 2, ICDE - 2, KDD - 1, NeurIPS - 1, AAAI - 1, IJCAI - 3, CVPR - 1, DAC - 1, RTSS - 1, CIKM - 2, ICDM - 1, WSDM - 1, CODES - 1, ICS - 1, ICASSP - 2, COGSCI - 1, KSEM - 1, ICPADS - 1, SEKE - 1***
+
+**[C24]** Feihong Lu, Xinyu Zhao, **Yutong Ye**, and Jianxin Li. [CLUE: Contrastive Learning-based Uncertainty Quantification for Cross-Modal Retrieval](). International Conference on Web Search and Data Mining (**WSDM, CCF-B**), HongKong, China, December 6-12, 2026.
 
 **[C24]** Yingbo Zhou, **Yutong Ye**, Shuhao Li, Rui Qian, Qiang Huang, Lemao Liu, Li Sun, and Dejing Dou. [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](). Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**), Sydney, Australia, December 6-12, 2026.
 
