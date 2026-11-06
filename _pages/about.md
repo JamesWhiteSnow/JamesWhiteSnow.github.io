@@ -42,6 +42,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Our paper got accepted by VLDB Journal 2026 (<font color=red><b>CCF-A</b></font>)!
 - *2026.11*: &nbsp;🎉🎉 Our paper got accepted by WSDM 2027 (<font color=red><b>CCF-B</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by NeurIPS 2026 (<font color=red><b>CCF-A</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2027 (<font color=red><b>CCF-A</b></font>)!
@@ -66,7 +67,9 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 ## Journal
 
-***Statistics: PVLDB - 2, TCAD - 2, TIFS - 1, TSC - 1, JSA - 2, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+***Statistics: PVLDB - 2, VLDB Journal - 1, TCAD - 2, TIFS - 1, TSC - 1, JSA - 2, IJHPCA - 1, JS - 1, JCSC - 1, JPCS - 1, IET-ITS - 1***
+
+**[J14]** **Yutong Ye**, Xiang Lian, and Mingsong Chen. [GNN-based Path Embeddings for Efficient and Exact Subgraph Matching over Static Graph](). The VLDB Journal (**VLDBJ, CCF-A**), 2026. (IF=5.3).
 
 **[J13]** Zhe Feng, **Yutong Ye<sup>#</sup>**, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, and Yuehua Dai. [SpiceDiff-Agent: Simulation-Efficient LLM-Guided Planning for Specification-Driven Analog Circuit Netlist Repair](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD, CCF-A**), 2026. (IF=2.9).
 
