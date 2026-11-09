@@ -42,7 +42,7 @@ Here are the links to some of my professional websites: <b><a a href="CV.pdf" ta
 
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 Our paper got accepted by VLDB Journal 2026 (<font color=red><b>CCF-A</b></font>)!
+- *2026.11*: &nbsp;🎉🎉 Our paper got accepted by VLDB Journal (<font color=red><b>CCF-A</b></font>)!
 - *2026.11*: &nbsp;🎉🎉 Our paper got accepted by WSDM 2027 (<font color=red><b>CCF-B</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by NeurIPS 2026 (<font color=red><b>CCF-A</b></font>)!
 - *2026.09*: &nbsp;🎉🎉 Our paper got accepted by SIGMOD 2027 (<font color=red><b>CCF-A</b></font>)!
