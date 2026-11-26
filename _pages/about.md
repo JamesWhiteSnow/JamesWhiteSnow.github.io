@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently an Pre-tenure Associate Professor (特聘副教授) at the College of Computer Science and Technology, Zhejiang Sci-Tech University (ZSTU), Hangzhou, China.**
+**I am currently a Pre-tenure Associate Professor (特聘副教授) at the School of Computer Science and Technology, Zhejiang Sci-Tech University (ZSTU), Hangzhou, China.**
 
 Previously, I was an Excellence Postdoctoral Fellow (卓越百人博士后) at Beihang University (BUAA) from 2025 to 2026, working with Prof. <a href="https://myjianxin.github.io/" target="_blank"><b>Jianxin Li</b></a>. From 2024 to 2025, I was a Visiting Scholar at the Department of Computer Science, Kent State University, USA, working with Prof. <a href="https://www.cs.kent.edu/~xlian/index.html" target="_blank"><b>Xiang Lian</b></a> and Prof. <a href="https://scholar.google.com/citations?user=lNQmMTMAAAAJ" target="_blank"><b>Ruoming Jin</b></a>.
 
@@ -32,7 +32,7 @@ My research lies at the intersection of intelligent data management and AI infra
 
 - ***Graph Learning and Applications:*** Graph machine learning and graph neural networks, time series and spatiotemporal data analysis, with applications in intelligent transportation and urban computing.
 
-I have published more than 50 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as SIGMOD, VLDB, ICDE, AAAI, IJCAI.
+I have published more than 50 papers <a href='https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top conferences and journals such as SIGMOD, VLDB, ICDE, KDD, AAAI.
 
 Here are the links to some of my professional websites: <b><a a href="CV.pdf" target="_blank">Resume</a></b>, <b><a href="https://scholar.google.com/citations?user=7O_KB40AAAAJ&hl" target="_blank">Google Scholar</a></b>, and <b><a href="https://dblp.uni-trier.de/pid/192/4957-1.html" target="_blank">DBLP</a></b>.
 
